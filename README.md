@@ -8,6 +8,8 @@ Contando com um sistema dedicado em informar previsões em pontos estratégicos
 para planejar melhor projetos de construção civíl.
 
 ## 2. Sobre os clientes:
+Os principais clientes são empresas de construção civil que buscam monitorar seu canteiro de obras,
+mas também já foi utilizado pela prefeitura do rio. 
 
 ## 3. Sobre as ferramentas:
 
