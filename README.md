@@ -12,5 +12,12 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
 mas também já foi utilizado pela prefeitura do rio. 
 
 ## 3. Sobre as ferramentas:
+A Ferramenta fornece:
+
+Previsão personalizada por área ou região de interesse. Dashboard com diferentes KPI`s.
+
+Alertas de deslocamento de tempestades em tempo real.
+
+Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.
 
 ## O que faremos:
