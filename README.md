@@ -4,6 +4,7 @@ Projeto dedicado em formar uma pagina eficiente e bem apresentável
 ## 1. Sobre a empresa:
 Nimbus é uma empresa focada em soluções tecnolígicas de previsões meteorológicas.
 Contando com um sistema dedicado em informar previsões em pontos específicos.
+Algumas empresas que utilizam ou já utilizaram seus serviços : RGS Engenharia, ENGEPLUS, Comim construtora , Prefeitura do Rio(centro de operações), Copabo, entre outras.
 
 ## 2. Sobre os clientes:
 Os principais clientes são empresas de construção civil que buscam monitorar e planejar as fases de suas obras, mitigando o risco.
