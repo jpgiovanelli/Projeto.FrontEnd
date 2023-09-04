@@ -27,7 +27,7 @@ a visualização em diferentes dispositivos (Desktop e mobile)
   - Setor financeiro e de planejamento
   
 #### Funcionalidades:
-  - Download de relatórios personalizados em diferentes formatos    
+  - Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)    
   - Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)  
   - Gráficos dinâmicos e ajustáveis em diferentes dispositivos (Desktop e mobile)  
   - Tabelas com dados
