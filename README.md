@@ -20,7 +20,7 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
 
 ## 4. Objetivos do projeto:
 A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada em facilitar
-a visualização em diferentes dispositivos 
+a visualização em diferentes dispositivos (Desktop e mobile)
 
 #### O sistema será utilizado por:
   - Engenheiros  
