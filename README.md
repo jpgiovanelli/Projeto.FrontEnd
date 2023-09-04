@@ -21,3 +21,8 @@ Alertas de deslocamento de tempestades em tempo real.
 Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.
 
 ## O que faremos:
+Faremos uma reformulação no site da empresa Nimbus
+
+## Objetivo da reformulação:
+Deixar o site mais agradável visualmente, assim atraindo mais a atenção e deixando mais fácil a visualização para seus clientes
+
