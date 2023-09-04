@@ -22,8 +22,11 @@ Dados históricos disponíveis para consulta e rápida exportação para relató
 A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada em facilitar
 a visualização em diferentes dispositivos 
 
-#### O sistema será utilizado por engenheiros...
-#### quando sera utilizado...
-#### onde sera otilizado...
-#### Dados que precisam....
+#### O sistema será utilizado por:
+  -> Engenheiros
+  -> Mestres de obras
+  
+#### Dados necessários:
+  -> Relatórios personalizados em excel
+  ->
 
