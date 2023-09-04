@@ -23,18 +23,18 @@ A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada
 a visualização em diferentes dispositivos 
 
 #### O sistema será utilizado por:
-  -> Engenheiros  
-  -> Mestres de obras  
-  -> Setor financeiro e de planejamento
+  - Engenheiros  
+  - Mestres de obras  
+     Setor financeiro e de planejamento
   
 #### Funcionalidades:
-  -> Download de relatórios personalizados em diferentes formatos    
-  -> Visualização de pontos pré-configurados no mapa  
-  -> Gráficos dinâmicos e ajustáveis em diferentes dispositivos  
-  -> Tabelas com dados  
+  - Download de relatórios personalizados em diferentes formatos    
+  - Visualização de pontos pré-configurados no mapa  
+  - Gráficos dinâmicos e ajustáveis em diferentes dispositivos  
+  - Tabelas com dados  
   
 
 #### Como serão consumidos os dados:
-  -> Response em .json vindo do End-point da API  
+  - Response em .json vindo do End-point da API  
   
 
