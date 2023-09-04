@@ -25,7 +25,7 @@ Faremos um protótipo a página de um site com suas devidas funcionalidades para
 
 Por Exemplo: Sistema de gráficos com um layout mais moderno.
 
-## Objetivo da reformulação:
+## Objetivo do Trabalho:
 Aprimorar a estética do site, tornando-o mais atraente e facilitando a visualização para os clientes.
 
 Desenvolver um site com ícones interativos para atender às necessidades dos usuários.
