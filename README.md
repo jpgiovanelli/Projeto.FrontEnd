@@ -18,7 +18,7 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
     - Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.  
 
 ## 4. Objetivos do projeto:
-A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada em facilitar
+Criar uma pagina mais robusta. A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada em facilitar
 a visualização em diferentes dispositivos (Desktop e mobile)
 
 #### O sistema será utilizado por:
@@ -28,12 +28,13 @@ a visualização em diferentes dispositivos (Desktop e mobile)
   
 #### Funcionalidades:
   - Download de relatórios personalizados em diferentes formatos    
-  - Visualização de pontos pré-configurados no mapa  
-  - Gráficos dinâmicos e ajustáveis em diferentes dispositivos  
+  - Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)  
+  - Gráficos dinâmicos e ajustáveis em diferentes dispositivos (Desktop e mobile)  
   - Tabelas com dados
+  - Interação entre os componentes
 
 #### Como serão consumidos os dados:
-  - End-point da API
+  - End-point das APIs 
     - JSON   
     - CSV   
     
