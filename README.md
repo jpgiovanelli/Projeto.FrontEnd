@@ -14,9 +14,9 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
 ## 3. Sobre as ferramentas:
   - A Ferramenta fornece:  
 
-    -> Previsão personalizada por área ou região de interesse. Dashboard com diferentes KPI`s.  
-    -> Alertas de deslocamento de tempestades em tempo real.  
-    -> Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.  
+    - Previsão personalizada por área ou região de interesse. Dashboard com diferentes KPI`s.  
+    - Alertas de deslocamento de tempestades em tempo real.  
+    - Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.  
 
 ## 4. Objetivos do projeto:
 A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada em facilitar
