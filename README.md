@@ -23,10 +23,10 @@ A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada
 a visualização em diferentes dispositivos 
 
 #### O sistema será utilizado por:
-  -> Engenheiros
-  -> Mestres de obras
+  -> Engenheiros  
+  -> Mestres de obras  
   
 #### Dados necessários:
-  -> Relatórios personalizados em excel
+  -> Relatórios personalizados em excel  
   ->
 
