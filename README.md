@@ -28,3 +28,5 @@ Por Exemplo: Sistema de gráficos com um layout mais moderno.
 ## Objetivo da reformulação:
 Aprimorar a estética do site, tornando-o mais atraente e facilitando a visualização para os clientes.
 
+Desenvolver um site com ícones interativos para atender às necessidades dos usuários.
+
