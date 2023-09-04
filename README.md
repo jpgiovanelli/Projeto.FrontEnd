@@ -33,9 +33,11 @@ a visualização em diferentes dispositivos (Desktop e mobile)
   - Tabelas com dados
 
 #### Como serão consumidos os dados:
-  - Response em .json vindo do End-point da API  
-  - Aquivos .csv  
+  - End-point da API
+    - JSON   
+    - CSV   
     
   -> JSON: Estrutura de dados em par chave:valor
+  -> CSV: Arquivo de dados separado por vírgula
   
 
