@@ -21,7 +21,7 @@ Alertas de deslocamento de tempestades em tempo real.
 Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.
 
 ## O que faremos:
-Faremos uma reformulação no site da empresa Nimbus.
+Faremos um protótipo a página de um site com suas devidas funcionalidades para a empresa Nimbus.
 
 Por Exemplo: Sistema de gráficos com um layout mais moderno.
 
