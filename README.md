@@ -9,7 +9,7 @@ Algumas empresas que utilizam ou já utilizaram seus serviços : RGS Engenharia,
 A empresa está em expanção e já atua em outros estados do sudeste e sul.
 
 ## 2. Sobre os clientes:
-Os principais clientes são empresas de construção civil que buscam monitorar e planejar as fases de suas obras, mitigando o risco.
+Os principais clientes são empresas de construção civil que buscam monitorar e planejar as fases de suas obras, mitigando o risco de acidentes em geral.
 
 ## 3. Sobre as ferramentas:
 A Ferramenta fornece:
