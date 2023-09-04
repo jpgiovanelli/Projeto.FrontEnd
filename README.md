@@ -21,8 +21,10 @@ Alertas de deslocamento de tempestades em tempo real.
 Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.
 
 ## O que faremos:
-Faremos uma reformulação no site da empresa Nimbus
+Faremos uma reformulação no site da empresa Nimbus.
+
+Por Exemplo: Sistema de gráficos com um layout mais moderno.
 
 ## Objetivo da reformulação:
-Deixar o site mais agradável visualmente, assim atraindo mais a atenção e deixando mais fácil a visualização para seus clientes
+Deixar o site mais agradável visualmente, assim atraindo mais a atenção e deixando mais fácil a visualização para seus clientes.
 
