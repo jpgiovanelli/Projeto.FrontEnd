@@ -37,7 +37,7 @@ a visualização em diferentes dispositivos (Desktop e mobile)
     - JSON   
     - CSV   
     
-  -> JSON: Estrutura de dados em par chave:valor
+  -> JSON: Estrutura de dados em par chave:valor  
   -> CSV: Arquivo de dados separado por vírgula
   
 
