@@ -12,13 +12,11 @@ A empresa está em expanção e já atua em outros estados do sudeste e sul.
 Os principais clientes são empresas de construção civil que buscam monitorar e planejar as fases de suas obras, mitigando o risco de acidentes em geral.
 
 ## 3. Sobre as ferramentas:
-A Ferramenta fornece:
+  - A Ferramenta fornece:  
 
-Previsão personalizada por área ou região de interesse. Dashboard com diferentes KPI`s.
-
-Alertas de deslocamento de tempestades em tempo real.
-
-Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.
+  -> Previsão personalizada por área ou região de interesse. Dashboard com diferentes KPI`s.  
+  -> Alertas de deslocamento de tempestades em tempo real.
+  -> Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.
 
 ## 4. Objetivos do projeto:
 A pagina será focada em apresentar dados de maneira dinâmica e simples. Focada em facilitar
