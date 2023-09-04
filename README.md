@@ -24,18 +24,17 @@ a visualização em diferentes dispositivos (Desktop e mobile)
 #### O sistema será utilizado por:
   - Engenheiros  
   - Mestres de obras  
-  -  Setor financeiro e de planejamento
+  - Setor financeiro e de planejamento
   
 #### Funcionalidades:
   - Download de relatórios personalizados em diferentes formatos    
   - Visualização de pontos pré-configurados no mapa  
   - Gráficos dinâmicos e ajustáveis em diferentes dispositivos  
   - Tabelas com dados
-  - Proposta de adicionar dados ociosos (coletados e não utilizados)  
-  
 
 #### Como serão consumidos os dados:
   - Response em .json vindo do End-point da API
+      -> JSON: Estrutura de dados em par chave:valor
   - Aquivos .csv 
   
 
