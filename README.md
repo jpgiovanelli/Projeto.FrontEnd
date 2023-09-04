@@ -13,7 +13,6 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
 
 ## 3. Sobre as ferramentas:
   - A Ferramenta fornece:  
-    - CRONOS, uma plataforma online de inteligência artificial capaz de prever local (região), hora e intensidade das chuvas com 12 horas de antecedência, além do deslocamento dos núcleos.(Atualmente, o índice de assertividade da plataforma é de mais de 90% em relação à previsão de chuva, e de mais de 75% em relação à tendência de deslocamento dos núcleos de chuva ou a possibilidade estacionária do acumulado
     - Previsão personalizada por área ou região de interesse. Dashboard com diferentes KPI`s.  
     - Alertas de deslocamento de tempestades em tempo real.  
     - Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.  
