@@ -25,7 +25,7 @@ a visualização em diferentes dispositivos
 #### O sistema será utilizado por:
   - Engenheiros  
   - Mestres de obras  
-     Setor financeiro e de planejamento
+  -  Setor financeiro e de planejamento
   
 #### Funcionalidades:
   - Download de relatórios personalizados em diferentes formatos    
