@@ -24,7 +24,7 @@ a visualização em diferentes dispositivos
 
 #### O sistema será utilizado por:
   -> Engenheiros  
-  -> Mestres de obras
+  -> Mestres de obras  
   -> Setor financeiro e de planejamento
   
 #### Funcionalidades:
