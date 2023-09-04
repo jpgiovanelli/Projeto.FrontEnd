@@ -30,7 +30,8 @@ a visualização em diferentes dispositivos (Desktop e mobile)
   - Download de relatórios personalizados em diferentes formatos    
   - Visualização de pontos pré-configurados no mapa  
   - Gráficos dinâmicos e ajustáveis em diferentes dispositivos  
-  - Tabelas com dados  
+  - Tabelas com dados
+  - Proposta de adicionar dados ociosos (coletados e não utilizados)  
   
 
 #### Como serão consumidos os dados:
