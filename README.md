@@ -34,6 +34,7 @@ a visualização em diferentes dispositivos (Desktop e mobile)
   
 
 #### Como serão consumidos os dados:
-  - Response em .json vindo do End-point da API  
+  - Response em .json vindo do End-point da API
+  - Aquivos .csv 
   
 
