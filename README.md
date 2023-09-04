@@ -29,13 +29,13 @@ a visualização em diferentes dispositivos
   -> Mestres de obras  
   
 #### Funcionalidades:
-  -> Download de relatórios personalizados em diferentes formatos  
+  -> Download de relatórios personalizados em diferentes formatos    
   -> Visualização de pontos pré-configurados no mapa  
-  -> Gráficos dinâmicos e ajustáveis em diferentes dispositivos
-  -> Tabelas com dados
+  -> Gráficos dinâmicos e ajustáveis em diferentes dispositivos  
+  -> Tabelas com dados  
   
 
 #### Como serão consumidos os dados:
-  -> Response em .json vindo do End-point da API
+  -> Response em .json vindo do End-point da API  
   
 
