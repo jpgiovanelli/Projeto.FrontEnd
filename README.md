@@ -33,7 +33,7 @@ para um cliente real com as ferramentas ensinadas.
 
 #### Como serão consumidos os dados:
   - End-point das APIs 
-    - JSON   
+    - JSON  
     - CSV   
     
   -> JSON: Estrutura de dados em par chave:valor  
@@ -70,6 +70,12 @@ a visualização em diferentes dispositivos (Desktop e mobile).
 *Histórico de dados, onde todos os dados serão armazenados.
 
 #### Requisitos Funcionais:
+- Implementação da ferramenta usada para criação dos relatorios.
+- Acessibilidade:
+        Recursos para suporte a leitores de tela.
+        Adaptação para diferentes dispositivos e tamanhos de tela.
+- Interação com o usuario.
+- 
 
 #### Requisitos não-funcionais:
 
