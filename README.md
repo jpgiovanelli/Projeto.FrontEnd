@@ -34,7 +34,7 @@ para um cliente real com as ferramentas ensinadas.
 
 #### Propósito do sistema:
 Democratizar e facilitar o acesso a informações para planejamento de fases de obras. O sistema será focado na visualização de previsões por áreas e estações específicas, informando as condições climáticas
-desejadas.
+nos locais informados.
 
 #### 5W2H:
 
