@@ -16,8 +16,7 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
     - Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.  
 
 ## 4. Objetivos do projeto:
-Criar uma pagina mais robusta. A pagina será focada em transformar os dados recebidos em informações de maneira dinâmica e simples. Focada em facilitar
-a visualização em diferentes dispositivos (Desktop e mobile)
+Utilizar da tecnolo
 
 #### O sistema será utilizado por:
   - Engenheiros  
@@ -39,6 +38,10 @@ a visualização em diferentes dispositivos (Desktop e mobile)
     
   -> JSON: Estrutura de dados em par chave:valor  
   -> CSV: Arquivo de dados separado por vírgula
+
+#### Propósito:
+Criar uma pagina mais robusta. A pagina será focada em transformar os dados recebidos em informações de maneira dinâmica e simples. Focada em facilitar
+a visualização em diferentes dispositivos (Desktop e mobile).
 
 #### 5W2H:
 
