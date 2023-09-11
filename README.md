@@ -32,8 +32,7 @@ para um cliente real com as ferramentas ensinadas.
   -> CSV: Arquivo de dados separado por vírgula
 
 #### Propósito do sistema:
-Criar uma pagina mais robusta. A pagina será focada em transformar os dados recebidos em informações de maneira dinâmica e simples. Focada em facilitar
-a visualização em diferentes dispositivos (Desktop e mobile).
+Democratizar e facilitar o acesso a informações para planejamento de fases de obras. O sistema será focado na visualização de previsões por áreas e estações específicas.
 
 #### 5W2H:
 
