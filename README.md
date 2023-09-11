@@ -18,6 +18,7 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
 ## 4. Objetivos do projeto:
 Utilizar das tecnologias aprendidas em sala (git, react) para realizar em grupo uma página protótipo para a empresa de metereologia Nimbus, simulando um trabalho feito
 para um cliente real com as ferramentas ensinadas.
+
 #### O sistema será utilizado por:
   - Engenheiros  
   - Mestres de obras  
@@ -32,7 +33,8 @@ para um cliente real com as ferramentas ensinadas.
   -> CSV: Arquivo de dados separado por vírgula
 
 #### Propósito do sistema:
-Democratizar e facilitar o acesso a informações para planejamento de fases de obras. O sistema será focado na visualização de previsões por áreas e estações específicas.
+Democratizar e facilitar o acesso a informações para planejamento de fases de obras. O sistema será focado na visualização de previsões por áreas e estações específicas, informando as condições climáticas
+desejadas.
 
 #### 5W2H:
 
@@ -76,6 +78,6 @@ Democratizar e facilitar o acesso a informações para planejamento de fases de 
 
 2- O Design precisa ser responsivo
 
-3- Acessibildade para mobile(app)
+3- Acessibildade para mobile
   
 
