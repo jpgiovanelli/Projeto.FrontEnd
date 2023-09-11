@@ -74,7 +74,7 @@ nos locais informados.
 
 #### Requisitos não-funcionais:
 
-1- O Página deverá estar o mais bem otimizada possível, contendo o menor número de bugs e problemas, mesmo esses não visíveis
+1- O Página deverá estar o mais bem otimizada possível, contendo o menor número de pontas soltas, com tempo de carregamento rapido
 
 2- O Design precisa ser responsivo
 
