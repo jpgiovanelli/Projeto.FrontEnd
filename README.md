@@ -58,12 +58,15 @@ a visualização em diferentes dispositivos (Desktop e mobile).
 *As empresas que adquirem o serviço (departamentos de planejamento, engenharia e meteorologia).
 
 -Quando
+
 *A entrada de dados ocorre continuamente, enquanto a consulta do cliente varia de acordo com o horário de sua escolha, seja 24 horas por dia ou conforme um agendamento previamente definido.
 
 -Como
+
 *Haverá uma solicitação de dados por meio de um formulário preenchido pelo usuário. Posteriormente, os dados serão obtidos por meio de uma API e exportados no formato de uma tabela de arquivo.
 
 -Onde
+
 *Histórico de dados, onde todos os dados serão armazenados.
 
 #### Requisitos Funcionais:
