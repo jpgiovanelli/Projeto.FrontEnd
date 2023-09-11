@@ -69,6 +69,7 @@ a visualização em diferentes dispositivos (Desktop e mobile).
   - Visualização em difetentes tamanhos de telas
   - Tabelas com dados
   - Interação entre os componentes
+  - O sistema deve incorporar e exibir os dados meteorológicos, bem como as equações matemáticas e físicas pertinentes, na tela principal.
 
 #### Requisitos não-funcionais:
 
