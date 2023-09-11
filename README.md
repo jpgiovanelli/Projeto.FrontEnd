@@ -25,7 +25,7 @@ a visualização em diferentes dispositivos (Desktop e mobile)
   - Setor financeiro e de planejamento
   
 #### Funcionalidades:
-  - Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)    
+  - Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)  
   - Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)
   - Visualização de dados de estações simultâneas selecionadas no mapa  
   - Gráficos dinâmicos e ajustáveis em diferentes dispositivos (Desktop e mobile)  
@@ -39,5 +39,23 @@ a visualização em diferentes dispositivos (Desktop e mobile)
     
   -> JSON: Estrutura de dados em par chave:valor  
   -> CSV: Arquivo de dados separado por vírgula
+
+#### 5W2H:
+
+-O Que
+
+-Por que
+
+-Quem
+
+-Quando
+
+-Como
+
+-Onde
+
+#### Requisitos Funcionais:
+
+#### Requisitos não-funcionais:
   
 
