@@ -43,12 +43,16 @@ a visualização em diferentes dispositivos (Desktop e mobile)
 #### 5W2H:
 
 -O Que
+. Adquire informações meteorológicas por meio de fontes como radares que acompanham em tempo real as condições das nuvens.
 
 -Por que
+. Utilizar equações físicas e matemáticas para oferecer previsões que auxiliem no planejamento da obra.
 
 -Quem
+. As empresas que adquirem o serviço (departamentos de planejamento, engenharia e meteorologia).
 
 -Quando
+.
 
 -Como
 
