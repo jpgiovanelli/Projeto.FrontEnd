@@ -67,7 +67,7 @@ desejadas.
   - Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)
   - Visualização de dados de estações simultâneas selecionadas no mapa  
   - Gráficos dinâmicos e ajustáveis em diferentes dispositivos
-  - Visualização em difetentes tamanhos de telas
+  - Visualização em diferentes tamanhos de telas
   - Tabelas com dados
   - Interação entre os componentes
   - O sistema deve incorporar e exibir os dados meteorológicos, bem como as equações matemáticas e físicas pertinentes, na tela principal.
