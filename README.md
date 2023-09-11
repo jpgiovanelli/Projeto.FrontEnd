@@ -16,7 +16,7 @@ Os principais clientes são empresas de construção civil que buscam monitorar 
     - Dados históricos disponíveis para consulta e rápida exportação para relatórios e laudos.  
 
 ## 4. Objetivos do projeto:
-Utilizar das tecnologias aprendidas em sala (git, react) para realizar em grupo uma página protótipo para a empresa de metereologia nimbus, simulando um trabalho feito
+Utilizar das tecnologias aprendidas em sala (git, react) para realizar em grupo uma página protótipo para a empresa de metereologia Nimbus, simulando um trabalho feito
 para um cliente real com as ferramentas ensinadas.
 #### O sistema será utilizado por:
   - Engenheiros  
