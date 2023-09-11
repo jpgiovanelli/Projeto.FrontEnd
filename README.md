@@ -60,7 +60,7 @@ nos locais informados.
 
 ##### Onde
 
-- Histórico de dados, onde todos os dados serão armazenados.
+- Será acessado por dispositivos móveis e página web com responsividade.
 
 #### Requisitos Funcionais:
   - Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)  
