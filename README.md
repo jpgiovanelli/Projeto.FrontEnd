@@ -31,7 +31,7 @@ para um cliente real com as ferramentas ensinadas.
   -> JSON: Estrutura de dados em par chave:valor  
   -> CSV: Arquivo de dados separado por vírgula
 
-#### Propósito:
+#### Propósito do sistema:
 Criar uma pagina mais robusta. A pagina será focada em transformar os dados recebidos em informações de maneira dinâmica e simples. Focada em facilitar
 a visualização em diferentes dispositivos (Desktop e mobile).
 
