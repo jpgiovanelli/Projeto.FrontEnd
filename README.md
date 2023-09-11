@@ -64,5 +64,8 @@ a visualização em diferentes dispositivos (Desktop e mobile).
 #### Requisitos Funcionais:
 
 #### Requisitos não-funcionais:
+
+*O Página precisa estar o mais bem otimizada possível, contendo o menor número de bugs e problemas, mesmo esses não visíveis
+*
   
 
