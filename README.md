@@ -22,14 +22,6 @@ para um cliente real com as ferramentas ensinadas.
   - Engenheiros  
   - Mestres de obras  
   - Setor financeiro e de planejamento
-  
-#### Funcionalidades:
-  - Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)  
-  - Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)
-  - Visualização de dados de estações simultâneas selecionadas no mapa  
-  - Gráficos dinâmicos e ajustáveis em diferentes dispositivos (Desktop e mobile)  
-  - Tabelas com dados
-  - Interação entre os componentes
 
 #### Como serão consumidos os dados:
   - End-point das APIs 
@@ -70,11 +62,13 @@ a visualização em diferentes dispositivos (Desktop e mobile).
 - Histórico de dados, onde todos os dados serão armazenados.
 
 #### Requisitos Funcionais:
-- Implementação da ferramenta usada para criação dos relatorios.
-- Acessibilidade:
-        Recursos para suporte a leitores de tela.
-        Adaptação para diferentes dispositivos e tamanhos de tela.
-- Interação com o usuario.
+  - Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)  
+  - Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)
+  - Visualização de dados de estações simultâneas selecionadas no mapa  
+  - Gráficos dinâmicos e ajustáveis em diferentes dispositivos
+  - Visualização em difetentes tamanhos de telas
+  - Tabelas com dados
+  - Interação entre os componentes
 
 #### Requisitos não-funcionais:
 
