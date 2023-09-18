@@ -74,13 +74,9 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - O sistema deve incorporar e exibir os dados meteorológicos, bem como as equações matemáticas e físicas pertinentes, na tela principal.
 
 #### Requisitos não-funcionais:
-
-1- A página deve ter um tempo de carregamento rápido
-
-2- O Design precisa ser responsivo
-
-3- Acessibildade para mobile
-
-4- Sistema feito no REACT (Framework JS) 
+  - A página deve ter um tempo de carregamento rápido
+  - O Design precisa ser responsivo
+  - Acessibildade para mobile
+  - Sistema feito no REACT (Framework JS) 
   
 
