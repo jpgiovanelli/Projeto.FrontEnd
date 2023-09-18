@@ -77,6 +77,9 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - A página deve ter um tempo de carregamento rápido
   - O Design precisa ser responsivo
   - Acessibildade para mobile
+  - Requisições na API disponibilizada
+  - Tratamento do json vindo do End-Point da API
+  - Sistema será versionado no GitHub
   - Sistema feito no REACT (Framework JS) 
   
 
