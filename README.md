@@ -72,6 +72,7 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - Tabelas com dados
   - Interação entre os componentes
   - O sistema deve incorporar e exibir os dados meteorológicos, bem como as equações matemáticas e físicas pertinentes, na tela principal.
+  - O Sistema irá possuir um formulário que considera uma série de critério de filtro, tais como: Data inicial, data final, tipo de variável metereológica, ponto de monitoramento.
 
 #### Requisitos não-funcionais:
   - A página deve ter um tempo de carregamento rápido
@@ -80,6 +81,7 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - Requisições na API disponibilizada
   - Tratamento do json vindo do End-Point da API
   - Sistema será versionado no GitHub
-  - Sistema feito no REACT (Framework JS) 
+  - Sistema feito no REACT (Framework JS)
+
   
 
