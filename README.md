@@ -73,7 +73,7 @@ O objetivo central é simplificar o acesso a informações vitais para o planeja
 
 #### Requisitos não-funcionais:
 
-1- O Página deverá estar o mais bem otimizada possível, contendo o menor número de pontas soltas, com tempo de carregamento rapido
+1- A página deve ter um tempo de carregamento rápido
 
 2- O Design precisa ser responsivo
 
