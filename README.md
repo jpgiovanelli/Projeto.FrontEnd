@@ -33,7 +33,7 @@ para um cliente real com as ferramentas ensinadas.
   -> CSV: Arquivo de dados separado por vírgula
 
 #### Propósito do sistema:
-O objetivo central é simplificar o acesso a informações vitais para o planejamento de etapas de obras. O sistema será meticulosamente projetado para oferecer visualizações detalhadas de previsões, categorizadas por áreas específicas. Isso permitirá que os usuários obtenham insights precisos sobre as condições climáticas nos locais selecionados. Dessa forma, profissionais da construção civil poderão tomar decisões mais informadas, garantindo eficiência e segurança em seus projetos.
+O sistema fornece recursos essenciais para a análise de dados meteorológicos. Permite o download de relatórios personalizados em diferentes formatos, facilitando a análise. Os usuários podem visualizar pontos no mapa, incluindo estações e áreas, e comparar dados de várias estações simultaneamente. Gráficos dinâmicos que se ajustam a diferentes dispositivos e tabelas detalhadas. A interação entre componentes é intuitiva. Em resumo, é uma ferramenta completa para análise de dados meteorológicos, com flexibilidade e interatividade.
 
 #### 5W2H:
 
@@ -78,5 +78,7 @@ O objetivo central é simplificar o acesso a informações vitais para o planeja
 2- O Design precisa ser responsivo
 
 3- Acessibildade para mobile
+
+4- Sistema feito no REACT (Framework JS) 
   
 
