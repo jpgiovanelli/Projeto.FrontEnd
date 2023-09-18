@@ -33,8 +33,7 @@ para um cliente real com as ferramentas ensinadas.
   -> CSV: Arquivo de dados separado por vírgula
 
 #### Propósito do sistema:
-Democratizar e facilitar o acesso a informações para planejamento de fases de obras. O sistema será focado na visualização de previsões por áreas e estações específicas, informando as condições climáticas
-nos locais informados.
+O objetivo central é simplificar o acesso a informações vitais para o planejamento de etapas de obras. O sistema será meticulosamente projetado para oferecer visualizações detalhadas de previsões, categorizadas por áreas específicas. Isso permitirá que os usuários obtenham insights precisos sobre as condições climáticas nos locais selecionados. Dessa forma, profissionais da construção civil poderão tomar decisões mais informadas, garantindo eficiência e segurança em seus projetos.
 
 #### 5W2H:
 
