@@ -64,13 +64,13 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
 - Será acessado por dispositivos móveis e página web com responsividade.
 
 #### Requisitos Funcionais:
-  - Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)  
-  - Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)
-  - Visualização de dados de estações simultâneas selecionadas no mapa  
-  - Gráficos dinâmicos e ajustáveis em diferentes dispositivos
-  - Visualização em diferentes tamanhos de telas
-  - Tabelas com dados
-  - Interação entre os componentes
+  - O sistema Download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)  
+  - O sistema Visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)
+  - O sistema Visualização de dados de estações simultâneas selecionadas no mapa  
+  - O sistema Gráficos dinâmicos e ajustáveis em diferentes dispositivos
+  - O sistema Visualização em diferentes tamanhos de telas
+  - O sistema Tabelas com dados
+  - O sistema Interação entre os componentes
   - O sistema deve incorporar e exibir os dados meteorológicos, bem como as equações matemáticas e físicas pertinentes, na tela principal.
   - O Sistema irá possuir um formulário que considera uma série de critério de filtro, tais como: Data inicial, data final, tipo de variável metereológica, ponto de monitoramento.
 
