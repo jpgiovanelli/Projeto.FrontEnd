@@ -82,6 +82,8 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - Tratamento do json vindo do End-Point da API
   - Sistema será versionado no GitHub
   - Sistema feito no REACT (Framework JS)
+  - alou
+  - 
 
   
 
