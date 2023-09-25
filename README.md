@@ -75,6 +75,7 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
     - Ator Principal: Usuário (QUEM?????????)
     - Pré-Condições:
       - O usuário está logado no sistema.
+      - O sistema deve ter acesso a fontes confiáveis de dados meteorológicos.
     - Fluxo Básico:
       - O usuário acessa a opção de "Configurar Alertas Meteorológicos" no sistema.
       - O sistema exibe uma lista de tipos de alerta disponíveis (por exemplo, chuvas fortes, ventos fortes).
@@ -90,6 +91,8 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
     - Ator Principal: Usuário (Setor Financeiro)
     - Pré-Condições:
       - O usuário está logado no sistema.
+      - O setor financeiro deve ter acesso aos dados climáticos históricos.
+      - A plataforma deve fornecer ferramentas para criar relatórios detalhados.
     - Fluxo Básico:
       - O usuário acessa a opção de "Gerar Relatórios de Dados Meteorológicos" no sistema.
       - O sistema apresenta opções para configurar o relatório, como seleção do período de tempo e tipos de dados a serem incluídos.
@@ -104,6 +107,8 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
     - Ator Principal: Usuário (QUEM????????????)
     - Pré-Condições:
       - O usuário está logado no sistema.
+      - O sistema deve oferecer opções de compartilhamento.
+
     - Fluxo Básico:
       - O usuário acessa a opção de "Compartilhar Previsões Meteorológicas" no sistema.
       - O sistema permite ao usuário selecionar as previsões meteorológicas desejadas.
