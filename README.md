@@ -99,7 +99,7 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
     - Pós-Condições:
       - O usuário possui um relatório de dados meteorológicos para fins de análise financeira e planejamento orçamentário.
 
-  - 2º Caso:
+  - 3º Caso:
     - Nome: Compartilhamento de Previsões Meteorológicas
     - Ator Principal: Usuário (QUEM????????????)
     - Pré-Condições:
