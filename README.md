@@ -81,22 +81,23 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - Requisições na API disponibilizada
   - Tratamento do json vindo do End-Point da API
   - Sistema será versionado no GitHub
+  - Sistema feito no REACT (Framework JS)
 
-  - Caso de Uso 1: Configuração de Alertas Meteorológicos
-
-Nome: Configuração de Alertas Meteorológicos
-Ator Principal: Usuário
-Pré-Condições:
-O usuário está logado no sistema.
-Fluxo Básico:
-O usuário acessa a opção de "Configurar Alertas Meteorológicos" no sistema.
-O sistema exibe uma lista de tipos de alerta disponíveis (por exemplo, chuvas fortes, ventos fortes).
-O usuário seleciona um ou mais tipos de alerta.
-O sistema permite ao usuário definir as condições para acionar o alerta, como intensidade da chuva ou velocidade do vento.
-O usuário configura as condições de acionamento.
-O sistema salva as configurações do alerta.
-Pós-Condições:
-O usuário está configurado para receber alertas meteorológicos personalizados com base nas condições especificadas.
+## 6. Casos de uso
+  - 1º Caso:
+    - Nome: Configuração de Alertas Meteorológicos
+    - Ator Principal: Usuário
+    - Pré-Condições:
+      - O usuário está logado no sistema.
+    - Fluxo Básico:
+      - O usuário acessa a opção de "Configurar Alertas Meteorológicos" no sistema.
+      - O sistema exibe uma lista de tipos de alerta disponíveis (por exemplo, chuvas fortes, ventos fortes).
+      - O usuário seleciona um ou mais tipos de alerta.
+      - O sistema permite ao usuário definir as condições para acionar o alerta, como intensidade da chuva ou velocidade do vento.
+      - O usuário configura as condições de acionamento.
+      - O sistema salva as configurações do alerta.
+    - Pós-Condições:
+      - O usuário está configurado para receber alertas meteorológicos personalizados com base nas condições especificadas.
 Caso de Uso 2: Geração de Relatórios de Dados Meteorológicos
 
 Nome: Geração de Relatórios de Dados Meteorológicos
@@ -125,7 +126,7 @@ O sistema gera o link ou envia o e-mail com as previsões.
 Pós-Condições:
 As previsões meteorológicas são compartilhadas com outros membros da equipe ou partes interessadas conforme a escolha do usuário.
 Esses são casos de uso adicionais com atores principais, pré-condições e fluxos básicos baseados no exemplo fornecido. Eles representam funcionalidades específicas do sistema de previsão meteorológica da empresa Nimbus.
-  - Sistema feito no REACT (Framework JS)
+
 
   
 
