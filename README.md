@@ -1,11 +1,11 @@
 # Nimbus - Projeto Front-end
 Projeto dedicado em formar uma pagina eficiente e bem apresentável
 
-## 4. Objetivos do projeto:
+## 1. Objetivos do projeto:
 Utilizar das tecnologias aprendidas em sala (git, react) para realizar em grupo uma página protótipo para a empresa de metereologia Nimbus, simulando um trabalho feito
 para um cliente real com as ferramentas ensinadas.
 
-## 5. Sobre o sistema:
+## 2. Sobre o sistema:
 
 #### O sistema será utilizado por:
   - Engenheiros  
@@ -69,7 +69,7 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - Sistema será versionado no GitHub
   - Sistema feito no REACT (Framework JS)
 
-## 6. Casos de uso
+## 3. Casos de uso
   - 1º Caso:
     - Nome: Configuração de Alertas Meteorológicos
     - Ator Principal: Usuário (QUEM?????????)
