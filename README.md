@@ -81,6 +81,50 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - Requisições na API disponibilizada
   - Tratamento do json vindo do End-Point da API
   - Sistema será versionado no GitHub
+
+  - Caso de Uso 1: Configuração de Alertas Meteorológicos
+
+Nome: Configuração de Alertas Meteorológicos
+Ator Principal: Usuário
+Pré-Condições:
+O usuário está logado no sistema.
+Fluxo Básico:
+O usuário acessa a opção de "Configurar Alertas Meteorológicos" no sistema.
+O sistema exibe uma lista de tipos de alerta disponíveis (por exemplo, chuvas fortes, ventos fortes).
+O usuário seleciona um ou mais tipos de alerta.
+O sistema permite ao usuário definir as condições para acionar o alerta, como intensidade da chuva ou velocidade do vento.
+O usuário configura as condições de acionamento.
+O sistema salva as configurações do alerta.
+Pós-Condições:
+O usuário está configurado para receber alertas meteorológicos personalizados com base nas condições especificadas.
+Caso de Uso 2: Geração de Relatórios de Dados Meteorológicos
+
+Nome: Geração de Relatórios de Dados Meteorológicos
+Ator Principal: Usuário (Setor Financeiro)
+Pré-Condições:
+O usuário está logado no sistema.
+Fluxo Básico:
+O usuário acessa a opção de "Gerar Relatórios de Dados Meteorológicos" no sistema.
+O sistema apresenta opções para configurar o relatório, como seleção do período de tempo e tipos de dados a serem incluídos.
+O usuário configura as opções do relatório.
+O sistema gera o relatório de acordo com as configurações.
+O usuário pode fazer o download do relatório no formato desejado (por exemplo, CSV ou PDF).
+Pós-Condições:
+O usuário possui um relatório de dados meteorológicos para fins de análise financeira e planejamento orçamentário.
+Caso de Uso 3: Compartilhamento de Previsões Meteorológicas
+
+Nome: Compartilhamento de Previsões Meteorológicas
+Ator Principal: Usuário
+Pré-Condições:
+O usuário está logado no sistema.
+Fluxo Básico:
+O usuário acessa a opção de "Compartilhar Previsões Meteorológicas" no sistema.
+O sistema permite ao usuário selecionar as previsões meteorológicas desejadas.
+O usuário escolhe o método de compartilhamento, como gerar um link compartilhável ou enviar por e-mail.
+O sistema gera o link ou envia o e-mail com as previsões.
+Pós-Condições:
+As previsões meteorológicas são compartilhadas com outros membros da equipe ou partes interessadas conforme a escolha do usuário.
+Esses são casos de uso adicionais com atores principais, pré-condições e fluxos básicos baseados no exemplo fornecido. Eles representam funcionalidades específicas do sistema de previsão meteorológica da empresa Nimbus.
   - Sistema feito no REACT (Framework JS)
 
   
