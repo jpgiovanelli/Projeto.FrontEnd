@@ -70,21 +70,42 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
   - Sistema feito no REACT (Framework JS)
 
 ## 3. Casos de uso
-  - 1º Caso:
-    - Nome: Configuração de Alertas Meteorológicos
-    - Ator Principal: Usuário (QUEM?????????)
-    - Pré-Condições:
-      - O usuário está logado no sistema.
-      - O sistema deve ter acesso a fontes confiáveis de dados meteorológicos.
-    - Fluxo Básico:
-      - O usuário acessa a opção de "Configurar Alertas Meteorológicos" no sistema.
-      - O sistema exibe uma lista de tipos de alerta disponíveis (por exemplo, chuvas fortes, ventos fortes).
-      - O usuário seleciona um ou mais tipos de alerta.
-      - O sistema permite ao usuário definir as condições para acionar o alerta, como intensidade da chuva ou velocidade do vento.
-      - O usuário configura as condições de acionamento.
-      - O sistema salva as configurações do alerta.
-    - Pós-Condições:
-      - O usuário está configurado para receber alertas meteorológicos personalizados com base nas condições especificadas.
+  - 1º Caso :
+    -Caso de Uso: Exportar Dados Meteorológicos
+    -Ator Principal: Usuário do sistema (Engenheiros, Mestres de obras, Setor financeiro e de planejamento)
+
+    -Objetivo: Permitir que o usuário exporte dados meteorológicos em diferentes formatos (JSON, CSV) para análises ou relatórios externos.
+
+    -Pré-condições:
+
+    -O usuário está autenticado no sistema.
+    -O usuário já realizou uma consulta de dados meteorológicos ou configurou os filtros desejados.
+Fluxo Principal:
+
+    -O usuário realiza uma consulta de dados meteorológicos no sistema, configurando os filtros de acordo com suas necessidades.
+
+    -Após visualizar os dados na tela principal, o usuário decide exportar os dados para análise externa.
+
+    -O sistema exibe a opção de exportação de dados em diferentes formatos, incluindo JSON e CSV.
+
+    -O usuário seleciona o formato desejado para a exportação (por exemplo, CSV).
+
+    -O sistema gera um arquivo no formato escolhido, contendo os dados meteorológicos de acordo com os filtros aplicados.
+
+    -O sistema disponibiliza o arquivo gerado para download.
+
+Fluxo Alternativo:
+
+      -No passo 4, se o usuário decidir cancelar a exportação, o caso de uso é encerrado sem gerar um arquivo.
+      
+Pós-condições:
+
+      -O usuário obtém um arquivo exportado contendo os dados meteorológicos conforme solicitado.
+
+Requisitos Funcionais:
+      -O sistema deve disponibilizar o download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png).
+      
+      -O sistema deve incorporar e exibir os dados meteorológicos na tela principal.
 
   - 2º Caso:
     - Nome: Geração de Relatórios de Dados Meteorológicos
@@ -102,21 +123,7 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
     - Pós-Condições:
       - O usuário possui um relatório de dados meteorológicos para fins de análise financeira e planejamento orçamentário.
 
-  - 3º Caso:
-    - Nome: Compartilhamento de Previsões Meteorológicas
-    - Ator Principal: Usuário (QUEM????????????)
-    - Pré-Condições:
-      - O usuário está logado no sistema.
-      - O sistema deve oferecer opções de compartilhamento.
-
-    - Fluxo Básico:
-      - O usuário acessa a opção de "Compartilhar Previsões Meteorológicas" no sistema.
-      - O sistema permite ao usuário selecionar as previsões meteorológicas desejadas.
-      - O usuário escolhe o método de compartilhamento, como gerar um link compartilhável ou enviar por e-mail.
-      - O sistema gera o link ou envia o e-mail com as previsões.
-    - Pós-Condições:
-      - As previsões meteorológicas são compartilhadas com outros membros da equipe ou partes interessadas conforme a escolha do usuário.
-
+  
 
 
   
