@@ -70,7 +70,7 @@ O tempo investido no desenvolvimento do programa, pelos programadores, constitui
 ## 3. Casos de uso
   - 1º Caso:
     - Nome: Geração de Relatórios de Dados Meteorológicos
-    - Ator Principal: Usuário (Setor Financeiro)
+    - Ator Principal: Usuário (Engenheiros, Mestres de obras, Setor financeiro e de planejamento)
     - Pré-Condições:
       - O usuário está logado no sistema.
       - O setor financeiro deve ter acesso aos dados climáticos históricos.
