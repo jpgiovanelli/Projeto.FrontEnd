@@ -85,6 +85,38 @@ O tempo investido no desenvolvimento do programa, pelos programadores, constitui
       - O usuário possui um relatório de dados meteorológicos para fins de análise financeira e planejamento orçamentário.
 
 
+  - 2º Caso :
+    - Caso de Uso: Exportar Dados Meteorológicos
+    - Ator Principal: Usuário do sistema (Engenheiros, Mestres de obras, Setor financeiro e de planejamento)
+
+    - Objetivo: Permitir que o usuário exporte dados meteorológicos em diferentes formatos (JSON, CSV) para análises ou relatórios externos.
+
+    - Pré-condições:
+      - O usuário está autenticado no sistema.
+      - O usuário já realizou uma consulta de dados meteorológicos ou configurou os filtros desejados.
+    - Fluxo Principal:
+
+      - O usuário realiza uma consulta de dados meteorológicos no sistema, configurando os filtros de acordo com suas necessidades.
+
+      - Após visualizar os dados na tela principal, o usuário decide exportar os dados para análise externa.
+
+      - O sistema exibe a opção de exportação de dados em diferentes formatos, incluindo JSON e CSV.
+
+      - O usuário seleciona o formato desejado para a exportação (por exemplo, CSV).
+
+      - O sistema gera um arquivo no formato escolhido, contendo os dados meteorológicos de acordo com os filtros aplicados.
+
+      - O sistema disponibiliza o arquivo gerado para download.
+
+    - Fluxo Alternativo:
+
+      - No passo 4, se o usuário decidir cancelar a exportação, o caso de uso é encerrado sem gerar um arquivo.
+      
+    - Pós-condições:
+
+      - O usuário obtém um arquivo exportado contendo os dados meteorológicos conforme solicitado.
+
+
 
   
 
