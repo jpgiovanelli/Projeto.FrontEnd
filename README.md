@@ -23,33 +23,7 @@ para um cliente real com as ferramentas ensinadas.
 #### Propósito do sistema:
 O sistema fornece recursos essenciais para a análise de dados meteorológicos. Permite o download de relatórios personalizados em diferentes formatos, facilitando a análise. Os usuários podem visualizar pontos no mapa, incluindo estações e áreas, e comparar dados de várias estações simultaneamente. Gráficos dinâmicos que se ajustam a diferentes dispositivos e tabelas detalhadas. A interação entre componentes é intuitiva. Em resumo, é uma ferramenta completa para análise de dados meteorológicos, com flexibilidade e interatividade.
 
-#### 5W2H:
-
-##### O Quê
-
-- Adquire informações meteorológicas por meio de fontes como radares que acompanham em tempo real as condições das nuvens.
-
-##### Por quê
-
-- Utilizar equações físicas e matemáticas para oferecer previsões que auxiliem no planejamento da obra.
-
-##### Quem
-
-- As empresas que adquirem o serviço (departamentos de planejamento, engenharia e meteorologia).
-
-##### Quando
-
-- A entrada de dados ocorre continuamente, enquanto a consulta do cliente varia de acordo com o horário de sua escolha, seja 24 horas por dia ou conforme um agendamento previamente definido.
-
-##### Como
-
-- Haverá uma solicitação de dados por meio de um formulário preenchido pelo usuário. Posteriormente, os dados serão obtidos por meio de uma API e exportados no formato de uma tabela de arquivo.
-
-##### Onde
-
-- Será acessado por dispositivos móveis e página web com responsividade.
-
-#### 5W2H Do Sistema
+#### 5W2H
 
 #### O quê?
 O sistema processa informações meteorológicas, incluindo dados de radares que monitoram as condições das nuvens em tempo real.
