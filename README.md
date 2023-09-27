@@ -100,22 +100,6 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
    -O sistema deve incorporar e exibir os dados meteorológicos na tela principal.
 
   - 2º Caso:
-    - Nome: Geração de Relatórios de Dados Meteorológicos
-    - Ator Principal: Usuário (Setor Financeiro)
-    - Pré-Condições:
-      - O usuário está logado no sistema.
-      - O setor financeiro deve ter acesso aos dados climáticos históricos.
-      - A plataforma deve fornecer ferramentas para criar relatórios detalhados.
-    - Fluxo Básico:
-      - O usuário acessa a opção de "Gerar Relatórios de Dados Meteorológicos" no sistema.
-      - O sistema apresenta opções para configurar o relatório, como seleção do período de tempo e tipos de dados a serem incluídos.
-      - O usuário configura as opções do relatório.
-      - O sistema gera o relatório de acordo com as configurações.
-      - O usuário pode fazer o download do relatório no formato desejado (por exemplo, CSV ou PDF).
-    - Pós-Condições:
-      - O usuário possui um relatório de dados meteorológicos para fins de análise financeira e planejamento orçamentário.
-
- 
 
 
 
