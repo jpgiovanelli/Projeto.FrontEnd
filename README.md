@@ -76,11 +76,11 @@ O tempo investido no desenvolvimento do programa, pelos programadores, constitui
       - O setor financeiro deve ter acesso aos dados climáticos históricos.
       - A plataforma deve fornecer ferramentas para criar relatórios detalhados.
     - Fluxo Básico:
-      - 1. O usuário acessa a opção de "Gerar Relatórios de Dados Meteorológicos" no sistema.
-      - 2. O sistema apresenta opções para configurar o relatório, como seleção do período de tempo e tipos de dados a serem incluídos.
-      - 3. O usuário configura as opções do relatório.
-      - 4. O sistema gera o relatório de acordo com as configurações.
-      - 5. O usuário pode fazer o download do relatório no formato desejado (por exemplo, CSV ou PDF).
+      - 1 - O usuário acessa a opção de "Gerar Relatórios de Dados Meteorológicos" no sistema.
+      - 2 - O sistema apresenta opções para configurar o relatório, como seleção do período de tempo e tipos de dados a serem incluídos.
+      - 3 - O usuário configura as opções do relatório.
+      - 4 - O sistema gera o relatório de acordo com as configurações.
+      - 5 - O usuário pode fazer o download do relatório no formato desejado (por exemplo, CSV ou PDF).
     - Pós-Condições:
       - O usuário possui um relatório de dados meteorológicos para fins de análise financeira e planejamento orçamentário.
 
@@ -96,17 +96,17 @@ O tempo investido no desenvolvimento do programa, pelos programadores, constitui
       - O usuário já realizou uma consulta de dados meteorológicos ou configurou os filtros desejados.
     - Fluxo Principal:
 
-      - 1. O usuário realiza uma consulta de dados meteorológicos no sistema, configurando os filtros de acordo com suas necessidades.
+      - 1 - O usuário realiza uma consulta de dados meteorológicos no sistema, configurando os filtros de acordo com suas necessidades.
 
-      - 2. Após visualizar os dados na tela principal, o usuário decide exportar os dados para análise externa.
+      - 2 - Após visualizar os dados na tela principal, o usuário decide exportar os dados para análise externa.
 
-      - 3. O sistema exibe a opção de exportação de dados em diferentes formatos, incluindo JSON e CSV.
+      - 3 - O sistema exibe a opção de exportação de dados em diferentes formatos, incluindo JSON e CSV.
 
-      - 4. O usuário seleciona o formato desejado para a exportação (por exemplo, CSV).
+      - 4 - O usuário seleciona o formato desejado para a exportação (por exemplo, CSV).
 
-      - 5. O sistema gera um arquivo no formato escolhido, contendo os dados meteorológicos de acordo com os filtros aplicados.
+      - 5 - O sistema gera um arquivo no formato escolhido, contendo os dados meteorológicos de acordo com os filtros aplicados.
 
-      - 6. O sistema disponibiliza o arquivo gerado para download.
+      - 6 - O sistema disponibiliza o arquivo gerado para download.
 
     - Fluxo Alternativo:
 
