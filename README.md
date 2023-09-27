@@ -76,12 +76,18 @@ O tempo investido no desenvolvimento do programa, pelos programadores, constitui
       - O setor financeiro deve ter acesso aos dados climáticos históricos.
       - A plataforma deve fornecer ferramentas para criar relatórios detalhados.  
         
-    - Fluxo Básico:  
+    - Fluxo Básico:
+      
       1 - O usuário acessa a opção de "Gerar Relatórios de Dados Meteorológicos" no sistema.
+      
       2 - O sistema apresenta opções para configurar o relatório, como seleção do período de tempo e tipos de dados a serem incluídos.
+       
       3 - O usuário configura as opções do relatório.
+      
       4 - O sistema gera o relatório de acordo com as configurações.
-      5 - O usuário pode fazer o download do relatório no formato desejado (por exemplo, CSV ou PDF).  
+      
+      5 - O usuário pode fazer o download do relatório no formato desejado (por exemplo, CSV ou PDF).
+         
     
     - Pós-Condições:
       - O usuário possui um relatório de dados meteorológicos para fins de análise financeira e planejamento orçamentário.
