@@ -49,6 +49,30 @@ O sistema fornece recursos essenciais para a análise de dados meteorológicos. 
 
 - Será acessado por dispositivos móveis e página web com responsividade.
 
+#### 5W2H Do Sistema
+
+#### O quê?
+O sistema processa informações meteorológicas, incluindo dados de radares que monitoram as condições das nuvens em tempo real.
+
+#### Por quê?
+O sistema é feito com o propósito de oferecer previsões baseadas em equações físicas e matemáticas, facilitando o planejamento de projetos.
+
+#### Quem?
+O sistema será utilizado principalmente por empresas e profissionais envolvidos em planejamento, engenharia e meteorologia que contratam o serviço.
+
+#### Quando?
+O sistema será utilizado pelo cliente dependendo do horário desejado, podendo ser em tempo real ou previamente planejado.
+
+#### Como?
+O sistema permite que o usuário solicite os dados por meio de um formulário, os quais são obtidos através de uma API e posteriormente exportados em um formato de tabela.
+
+#### Onde?
+O sistema é aplicado em situações que envolvem o planejamento de obras e em pesquisas relacionadas à meteorologia.
+
+#### Quanto?
+O tempo investido no desenvolvimento do programa, pelos programadores, constitui um aspecto relevante em termos de recursos.
+
+
 #### Requisitos Funcionais:
   - O sistema deve disponibilizar o download de relatórios personalizados em diferentes formatos (.csv, .pdf e .png)  
   - O sistema deve ter a visualização de pontos pré-configurados no mapa (marcadores de estacões e áreas)
