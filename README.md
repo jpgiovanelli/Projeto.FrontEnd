@@ -60,10 +60,10 @@ O tempo investido no desenvolvimento do programa, pelos programadores, constitui
 
 #### Requisitos não-funcionais:
   - A página deve ter um tempo de carregamento rápido
-  - O Design precisa ser responsivo
-  - Acessibildade para mobile
-  - Requisições na API disponibilizada
-  - Tratamento do json vindo do End-Point da API
+  - O Design do sistema precisa ser responsivo
+  - O sistema deve ter acessibildade para mobile
+  - O sistema deve fazer requisições na API disponibilizada
+  - O sistema deve tratar o json vindo do End-Point da API
   - Sistema será versionado no GitHub
   - Sistema feito no REACT (Framework JS)
 
